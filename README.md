@@ -1,23 +1,27 @@
 <div align="center">
-  <img height="150" src=""  />
+  <img height="150" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <a href="https://www.linkedin.com/in/abishek-aravinth-k-029aab231/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://mail.google.com/mail/u/1/#inbox" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Abishek-Aravinth.Abishek-Aravinth&"  />
+  <img src="https://profile-counter.glitch.me/Abishek-Aravinth/count.svg?"  />
 </div>
 
 ###
 
-<h1 align="center">hey there</h1>
+<h1 align="center">Hey there</h1>
 
 ###
 
@@ -25,7 +29,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left"><hello><br>I'm Abishek aravinth<br>An individual who is creative and wants work in pragmatic way in an organization where i can show my talent and enhance my skills to meet company goals and objective with full integrity and zest.</p>
 
 ###
 
@@ -34,12 +38,24 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
 </div>
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="center">🔥   My Stats :</h3>
 
 ###
 
