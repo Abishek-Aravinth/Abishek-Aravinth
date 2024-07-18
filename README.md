@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left"><hello><br>I'm Abishek aravinth<br>An individual who is creative and wants work in pragmatic way in an organization where i can show my talent and enhance my skills to meet company goals and objective with full integrity and zest.</p>
+<p align="left"> <hello> <br>I'm Abishek aravinth<br>An individual who is creative and wants work in pragmatic way in an organization where i can show my talent and enhance my skills to meet company goals and objective with full integrity and zest.</p>
 
 ###
 
